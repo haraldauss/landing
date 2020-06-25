@@ -1,0 +1,43 @@
+@import url("components/container.css");
+@import url("components/me.css");
+@import url("components/button.css");
+@import url("components/bannercss");
+@import url("components/card.css");
+
+
+body {
+	font-size: 16px;
+	font-family: 'Roboto', serif;
+	margin: 0px;
+	background-color: white;
+
+}
+
+h1, h2 {
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+
+h3 {
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	color: black;
+	font-size: 28px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
